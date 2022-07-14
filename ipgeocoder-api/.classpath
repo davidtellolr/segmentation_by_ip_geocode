@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test,testIntegration"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="/home/allenz/.gradle/caches/modules-2/files-2.1/com.liferay.portal/release.dxp.api/7.3.10.3/f39c26cd482d2106554cbb7962eee342e3d261bc/release.dxp.api-7.3.10.3-sources.jar" kind="lib" path="/home/allenz/.gradle/caches/modules-2/files-2.1/com.liferay.portal/release.dxp.api/7.3.10.3/6f62696414b3bbc126073caae52ca3f06e020fab/release.dxp.api-7.3.10.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+</classpath>

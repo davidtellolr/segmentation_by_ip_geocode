@@ -1,0 +1,6 @@
+dependencies {
+	compileInclude group: "com.maxmind.geoip2", name: "geoip2", version: "2.12.0"
+
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+	compileOnly project(":modules:apps:ipgeocoder:ipgeocoder-api")
+}

@@ -1,0 +1,4 @@
+Bundle-Name: OSB WWW IP Geocoder API
+Bundle-SymbolicName: com.liferay.osb.www.ip.geocoder
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.osb.www.ip.geocoder

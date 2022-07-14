@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ipgeocoder-service</name>
+	<comment>OSB WWW IP Geocoder Service</comment>
+	<projects/>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>com.liferay.ide.core.liferayNature</nature>
+	</natures>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments/>
+		</buildCommand>
+	</buildSpec>
+	<linkedResources/>
+	<filteredResources/>
+	<filteredResources>
+		<filter>
+			<id>1646409554409</id>
+			<name/>
+			<type>26</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.orFilterMatcher</id>
+				<arguments>
+					<matcher>
+						<arguments>1.0-name-matches-false-false-.git</arguments>
+						<id>org.eclipse.ui.ide.multiFilter</id>
+					</matcher>
+					<matcher>
+						<arguments>1.0-name-matches-false-false-.gradle</arguments>
+						<id>org.eclipse.ui.ide.multiFilter</id>
+					</matcher>
+					<matcher>
+						<arguments>1.0-name-matches-false-false-build</arguments>
+						<id>org.eclipse.ui.ide.multiFilter</id>
+					</matcher>
+					<matcher>
+						<arguments>1.0-name-matches-false-false-node_modules</arguments>
+						<id>org.eclipse.ui.ide.multiFilter</id>
+					</matcher>
+					<matcher>
+						<arguments>1.0-name-matches-false-false-node_modules_cache</arguments>
+						<id>org.eclipse.ui.ide.multiFilter</id>
+					</matcher>
+					<matcher>
+						<arguments>1.0-name-matches-false-false-tmp</arguments>
+						<id>org.eclipse.ui.ide.multiFilter</id>
+					</matcher>
+				</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>
